@@ -1,2 +1,2 @@
 # Docter
-this is a proeject on online docter appointment
+this is a project on online docter appointment
